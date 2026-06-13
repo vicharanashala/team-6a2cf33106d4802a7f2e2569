@@ -22,7 +22,7 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) — any email/password works in demo mode.
 
-## Google Cloud Translation API
+##  Translation API
 
 1. Enable the [Cloud Translation API](https://console.cloud.google.com/apis/library/translate.googleapis.com)
 2. Create an API key in Google Cloud Console
