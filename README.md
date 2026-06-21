@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ClickFAQ
 
 A modern FAQ Management Platform built with React, TypeScript, Tailwind CSS, React Router, Lucide React, and Framer Motion. 
@@ -43,3 +44,7 @@ node scripts/parse-faq.mjs
 - Framer Motion
 - Lucide React
 
+=======
+# team-6a2cf33106d4802a7f2e2569
+FAQ Crowdsourcing project — saatvik tyagi
+>>>>>>> 01ac469fb9275c82a938ae2872ad33ce36625618
