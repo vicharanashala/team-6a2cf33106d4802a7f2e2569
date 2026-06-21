@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+# team-6a2cf33106d4802a7f2e2569
 # ClickFAQ
 
 A modern FAQ Management Platform built with React, TypeScript, Tailwind CSS, React Router, Lucide React, and Framer Motion. 
